@@ -1,11 +1,12 @@
 # SUBCHI — DJ & Selector Website
 
-[![Live site](https://img.shields.io/badge/Live%20site-subchibeats.github.io-E0A33E?style=flat-square)](https://subchibeats.github.io/subchi-website/)
+[![Live site](https://img.shields.io/badge/Live%20site-subchi.netlify.app-E0A33E?style=flat-square)](https://subchi.netlify.app/)
 [![Made with](https://img.shields.io/badge/Built%20with-HTML%20%C2%B7%20CSS%20%C2%B7%20JS-111?style=flat-square)](#tech-stack)
 [![No build step](https://img.shields.io/badge/Dependencies-0-2ea44f?style=flat-square)](#tech-stack)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
-> **▶ Live demo: https://subchibeats.github.io/subchi-website/**
+> **▶ Live site: https://subchi.netlify.app/**
+> &nbsp;·&nbsp; mirror: https://subchibeats.github.io/subchi-website/
 
 A five-page artist website for **Subchi**, an open-format DJ and creator of the
 *Bentley Radio* mix series. The site pairs a monochrome "brutalist-luxe" visual
@@ -21,7 +22,7 @@ dependencies to install.
 
 ## Demo / Screenshots
 
-**▶ Live site:** https://subchibeats.github.io/subchi-website/
+**▶ Live site:** https://subchi.netlify.app/
 
 🎬 **[Watch the 1-minute promo video](../../releases/latest)** (attached to the
 latest release).
@@ -135,7 +136,7 @@ Released under the [MIT License](LICENSE).
 Designed and developed by **Sahib Singh** — custom websites and creative web
 apps for musicians and artists.
 
-- 🌐 Live site: https://subchibeats.github.io/subchi-website/
+- 🌐 Live site: https://subchi.netlify.app/
 - 📸 Instagram: [@subchibeats](https://instagram.com/subchibeats)
 - 🎧 SoundCloud: [/singhstaysking](https://soundcloud.com/singhstaysking)
 - ✉️ Bookings & web work: `subchibeats@gmail.com`
