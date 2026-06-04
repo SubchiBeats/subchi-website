@@ -24,8 +24,10 @@ dependencies to install.
 
 **▶ Live site:** https://subchi.netlify.app/
 
-🎬 **[Watch the 1-minute promo video](../../releases/latest)** (attached to the
-latest release).
+![Subchi — audio-reactive sound reactor in action](docs/demo.gif)
+
+🎬 **[Watch the full 1-minute promo video](../../releases/latest)** (attached to
+the latest release) — or see the audio-reactive sound reactor above.
 
 | Home | Bookings | Press / EPK |
 |------|----------|-------------|
