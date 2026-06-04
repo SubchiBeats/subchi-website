@@ -1,5 +1,12 @@
 # SUBCHI — DJ & Selector Website
 
+[![Live site](https://img.shields.io/badge/Live%20site-subchibeats.github.io-E0A33E?style=flat-square)](https://subchibeats.github.io/subchi-website/)
+[![Made with](https://img.shields.io/badge/Built%20with-HTML%20%C2%B7%20CSS%20%C2%B7%20JS-111?style=flat-square)](#tech-stack)
+[![No build step](https://img.shields.io/badge/Dependencies-0-2ea44f?style=flat-square)](#tech-stack)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+
+> **▶ Live demo: https://subchibeats.github.io/subchi-website/**
+
 A five-page artist website for **Subchi**, an open-format DJ and creator of the
 *Bentley Radio* mix series. The site pairs a monochrome "brutalist-luxe" visual
 language with a single amber accent, cinematic motion, and a genuinely
@@ -14,14 +21,14 @@ dependencies to install.
 
 ## Demo / Screenshots
 
-> _Add screenshots or a GIF walkthrough here._
->
-> | Home | Music | Press / EPK |
-> |------|-------|-------------|
-> | `docs/home.png` | `docs/music.png` | `docs/epk.png` |
+**▶ Live site:** https://subchibeats.github.io/subchi-website/
 
-Live preview: open `index.html` in any modern browser, or deploy to any static
-host (see [Run locally](#run-locally)).
+🎬 **[Watch the 1-minute promo video](../../releases/latest)** (attached to the
+latest release).
+
+| Home | Bookings | Press / EPK |
+|------|----------|-------------|
+| ![Subchi home](docs/home.png) | ![Bookings](docs/bookings.png) | ![Press kit](docs/press-kit.png) |
 
 ---
 
@@ -120,3 +127,17 @@ external files and can be edited or deployed independently.
 ## License
 
 Released under the [MIT License](LICENSE).
+
+---
+
+## Built by
+
+Designed and developed by **Sahib Singh** — custom websites and creative web
+apps for musicians and artists.
+
+- 🌐 Live site: https://subchibeats.github.io/subchi-website/
+- 📸 Instagram: [@subchibeats](https://instagram.com/subchibeats)
+- 🎧 SoundCloud: [/singhstaysking](https://soundcloud.com/singhstaysking)
+- ✉️ Bookings & web work: `subchibeats@gmail.com`
+
+> Like this site? I build them for other artists too — get in touch.
